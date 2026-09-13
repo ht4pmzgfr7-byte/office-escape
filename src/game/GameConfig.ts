@@ -1,12 +1,12 @@
 import Phaser from 'phaser';
-import { BootScene } from './game/scenes/BootScene';
-import { MenuScene } from './game/scenes/MenuScene';
-import { CharacterSelectScene } from './game/scenes/CharacterSelectScene';
-import { LevelSelectScene } from './game/scenes/LevelSelectScene';
-import { SettingsScene } from './game/scenes/SettingsScene';
-import { GameScene } from './game/scenes/GameScene';
-import { GameOverScene } from './game/scenes/GameOverScene';
-import { VictoryScene } from './game/scenes/VictoryScene';
+import { BootScene } from './scenes/BootScene';
+import { MenuScene } from './scenes/MenuScene';
+import { CharacterSelectScene } from './scenes/CharacterSelectScene';
+import { LevelSelectScene } from './scenes/LevelSelectScene';
+import { SettingsScene } from '/scenes/SettingsScene';
+import { GameScene } from './scenes/GameScene';
+import { GameOverScene } from './scenes/GameOverScene';
+import { VictoryScene } from './scenes/VictoryScene';
 
 export function createGameConfig(parent: HTMLElement): Phaser.Types.Core.GameConfig {
   return {
