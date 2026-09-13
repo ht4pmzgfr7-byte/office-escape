@@ -1,0 +1,14 @@
+{
+  "name": "Office Escape",
+  "short_name": "OfficeEscape",
+  "start_url": "/office-escape/",
+  "scope": "/office-escape/",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#1a1a2e",
+  "theme_color": "#1a1a2e",
+  "icons": [
+    { "src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
