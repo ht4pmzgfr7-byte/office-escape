@@ -3,7 +3,7 @@ import { BootScene } from './scenes/BootScene';
 import { MenuScene } from './scenes/MenuScene';
 import { CharacterSelectScene } from './scenes/CharacterSelectScene';
 import { LevelSelectScene } from './scenes/LevelSelectScene';
-import { SettingsScene } from '/scenes/SettingsScene';
+import { SettingsScene } from './scenes/SettingsScene';
 import { GameScene } from './scenes/GameScene';
 import { GameOverScene } from './scenes/GameOverScene';
 import { VictoryScene } from './scenes/VictoryScene';
